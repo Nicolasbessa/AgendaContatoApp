@@ -1,4 +1,3 @@
-import datetime
 from Telefone import Telefone
 from Pessoa import Pessoa
 from Contato import Contato
